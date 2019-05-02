@@ -1,4 +1,4 @@
-Formsystem for shared use with flowtracker and opcentral
+Formsystem - publishing API custom form APIs and handling submissions.
 
 
 ## Pre Requirements
